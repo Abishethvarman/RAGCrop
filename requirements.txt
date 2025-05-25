@@ -1,0 +1,22 @@
+numpy
+pandas
+ipykernel
+requests
+
+python-dotenv
+
+# LangChain + Google Gemini
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+
+# PDF Extraction (Using PyPDFLoader)
+pypdf
+
+# Embeddings (Free Open-Source Model)
+sentence-transformers
+
+# Vector Database (ChromaDB - Local)
+chromadb
+xgboost

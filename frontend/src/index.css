@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+
+/* Now you can add normal CSS after all @import statements */
+body {
+  font-family: 'Lexend', sans-serif;
+  background: #04364A;
+}
+
+input:focus + .input-span {
+  color: #04364A;
+}
