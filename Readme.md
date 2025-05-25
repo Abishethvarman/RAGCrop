@@ -1,10 +1,8 @@
-##  AG AgriExpert RAG
+##  RAGCrop
 
-#### Grownius - ZeroBug
+#### 
 
-The Agri Related ChatBot wich integrates RAG Pipeline to give domain specific Knowledge
-
-# 🧠 Grownius - ZeroBug: RAG-based Agri Chatbot Architecture
+# 
 
                                 +--------------------------+
                                 |      👨‍🌾   User          |
